@@ -23,10 +23,6 @@
 #define MAXVARS 200
 #define MAXCLA 1000
 #define MAXLIT 200
-
-/**
- * @param 
- */
 typedef struct {
     char name[32];
 } VarMapEntry;
